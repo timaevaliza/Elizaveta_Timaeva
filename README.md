@@ -1,4 +1,3 @@
-# Elizaveta_Timaeva
 # Всем привет!
 ## Я Тимаева Елизавета, QA-engineer
 
